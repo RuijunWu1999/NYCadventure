@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NYCadventure:jar">
+    <output-path>F:/(uncertainStorage)</output-path>
+    <root id="archive" name="NYCadventure.jar">
+      <element id="module-output" name="NYCadventure" />
+    </root>
+  </artifact>
+</component>
